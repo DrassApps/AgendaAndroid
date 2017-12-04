@@ -1,0 +1,63 @@
+<resources>
+    <string name="app_name">Agenda</string>
+    <string name="dev_name" translatable="false">Andrés Micó Millán</string>
+    <string name="telf" translatable="false">634608219</string>
+
+    <string name="permiso_escritura">Permiso de escritura necesario.</string>
+    <string name="configurar">Configuración</string>
+    <string name="hint_nombre">Nombre</string>
+    <string name="hint_direccion">Dirección</string>
+    <string name="hint_movil">Móvil</string>
+    <string name="hint_correo">Correo</string>
+    <string name="aviso">Aviso</string>
+    <string name="txt">Texto</string>
+    <string name="json">JSON</string>
+    <string name="Nuevo">Nuevo</string>
+    <string name="Ver">Ver</string>
+    <string name="Modificar">Modificar</string>
+    <string name="Eliminar">Eliminar</string>
+
+    <string name="OrdenarC">Ordena tus contactos</string>
+
+    <string name="Orden1">Por nombre</string>
+    <string name="Orden2">Por fecha de adición</string>
+
+    <string name="Importar">Importar</string>
+    <string name="Exportar">Exportar</string>
+
+    <string name="ErrorPick">No has elegido ninguna imagen</string>
+
+    <string name="nm_inv">Nombre inválido</string>
+    <string name="mail_inv">Correo electrónico inválido</string>
+    <string name="movil_inv">Número inválido</string>
+    <string name="direccion_inv">Dirección inválida</string>
+    <string name="datos_inv">Complete todos los campos</string>
+
+    <string name="add_agenda"> se ha añadido a la Agenda</string>
+    <string name="err_agenda">No se ha añadido ningún contacto</string>
+    <string name="del_agenda">Contacto eliminado</string>
+    <string name="modi_agenda"> se ha modificado</string>
+    <string name="modiN_agenda">No se ha modificado ningún contacto</string>
+
+    <string name="tablaorden1">Tabla ordenada alfabéticamente</string>
+    <string name="tablaorden2">Tabla ordenada por fecha de adición del contacto</string>
+
+    <string name="permisosDenegados">Denegados permisos a la app</string>
+    <string name="permisosConcedidos">La aplicación tiene los permisos requeridos</string>
+    <string name="eligeOpcion">Elige una opción</string>
+    <string name="c_eliminado">Contacto eliminado</string>
+    <string name="errorSD">No hemos podido acceder a su SD</string>
+
+    <string name="importarTXT">No hay ningun archivo .txt para importar</string>
+    <string name="importarJSON">No hay ningun archivo .json para importar</string>
+    <string name="crearTXTFile">No hemos podido exportar el archivo en formato .txt</string>
+    <string name="crearJSONFile">No hemos podido exportar el archivo en formato .json</string>
+
+    <string name="importarTXTSC">Contactos.txt importado correctamente</string>
+    <string name="importarJSONSC">Contactos.json importado correctamente</string>
+    <string name="crearTXTSC">Los datos fueron exportados a Contactos.txt correctamente</string>
+    <string name="crearJSONSC">Los datos fueron exportados a Contactos.json correctamente</string>
+
+    <string name="dialogExport">¿En qué formato quieres guardar el archivo?</string>
+    <string name="permisos_c">No es necesario pedir los permisos, ya los tiene</string>
+</resources>
